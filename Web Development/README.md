@@ -63,6 +63,10 @@ This category is a curated collection of valuable web development resources cont
             <td><a href="https://www.youtube.com/watch?v=ExcRbA7fy_A&list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA">Complete MongoDB Tutorial </td>
 <td>A playlist for learning MongoDB from beginning to advance! </td>
       </tr>
+      <tr>
+            <td><a href="https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR">JS Tutorial by CODEWITHHARRY </a></td>
+<td>Structured and beginner-friendly JS tutorial </td>
+      </tr>
   </table>
 
 ### Tools
